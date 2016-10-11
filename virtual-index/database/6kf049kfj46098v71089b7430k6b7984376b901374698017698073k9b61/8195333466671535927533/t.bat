@@ -1,0 +1,14 @@
+@echo off
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%
+md %random%%random%%random%%random%%random%

@@ -1,0 +1,17 @@
+panel:
+
+andere befehle:
+
+-share delete
+-share edit
+
+system:
+
+-shutdown
+-restart
+
+struktur:
+
+-shares bekommen eine nummer als namen, in ihrer config steht der tatsächliche name
+
+- clear cache command

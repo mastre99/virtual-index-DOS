@@ -1,0 +1,10 @@
+-rename of variable x8 to I (control of difference)
+-fixed the time in logs
+-introducing the share-ID:
+
+shares will now be counted and started after their ID, which is connected with the actual name of the share, but is in focus
+because of the starting progress which can easily be completed with a loop which uses numbers instead of variables.
+
+-share deleting command
+
+-
